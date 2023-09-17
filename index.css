@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width:5rem
+}
+.cart {
+    width:2rem
+}
+.nav-items{
+    padding : 7px 28px
+}
+.nav-items > ul {
+    display: flex;
+    justify-content: space-around;
+    width: 19rem;
+    list-style-type: none;
+
+}
