@@ -24,14 +24,14 @@ const Header = () => {
     )
 }
 
-const RestaurantCard = () => {
+const RestaurantCard = (props) => {
     return (
         <div className="restaurant-card">
             <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c9b36413c755d072ec34619ee585bef4" alt="thatte-idli" />
-            <h3>IDC</h3>
-            <h4>South Indian, Desserts, North Indian</h4>
-            <h4>4.4 star</h4>
-            <h4>38 minutes</h4>
+            <h3>{props.resName}</h3>
+            <h4>{props.cuisine}</h4>
+            <h4>{props.rating}star</h4>
+            <h4>{props.eta}</h4>
         </div>
     )
 }
@@ -43,20 +43,12 @@ const Body = () => {
                 Search
             </div>
             <div className='restaurant-card-container'>
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
+                <RestaurantCard
+                    resName="IDC" cuisine="South Indian, Desserts, North Indian" rating="4.4" eta="38 minutes"
+                />
+                <RestaurantCard
+                    resName="Kapoor's Cafe" cuisine="Punjabi food,dessert,North Indian" rating="4.6" eta="30 minutes"
+                />
             </div>
 
         </div>

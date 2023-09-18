@@ -1,4 +1,4 @@
-4486
+4485
 72E:\Foodzy\node_modules\@swc\helpers\src\_possible_constructor_return.mjs121436361000000000 0
 40E:\Foodzy\node_modules\lmdb\util\when.js121436361000000000 0
 52E:\Foodzy\node_modules\@parcel\cache\lib\IDBCache.js121436361000000000 0
@@ -14,7 +14,7 @@
 20E:\Foodzy\.gitignore133394296296371991 0
 54E:\Foodzy\node_modules\caniuse-lite\data\regions\GN.js121436361000000000 0
 54E:\Foodzy\node_modules\@parcel\workers\src\cpuCount.js121436361000000000 0
-16E:\Foodzy\App.js133394840103946404 0
+16E:\Foodzy\App.js133394849954232622 0
 51E:\Foodzy\node_modules\cosmiconfig\dist\util.js.map121436361000000000 0
 64E:\Foodzy\node_modules\type-fest\source\require-exactly-one.d.ts121436361000000000 0
 65E:\Foodzy\node_modules\caniuse-lite\data\features\css-counters.js121436361000000000 0
@@ -31,13 +31,13 @@
 31E:\Foodzy\node_modules\escalade133393564159153405 1
 39E:\Foodzy\node_modules\parcel\README.md121436361000000000 0
 60E:\Foodzy\node_modules\abortcontroller-polyfill\src\utils.js121436361000000000 0
-14E:\Foodzy\dist133394841700567731 1
+14E:\Foodzy\dist133394850161713300 1
 31E:\Foodzy\node_modules\mdn-data133393564162409215 1
 29E:\Foodzy\node_modules\@babel133393564157371253 1
 43E:\Foodzy\node_modules\@swc\helpers\scripts133393564120656196 1
 49E:\Foodzy\node_modules\entities\lib\maps\xml.json121436361000000000 0
 22E:\Foodzy\node_modules133394322565205810 1
-16E:\Foodzy\images133394775146355656 1
+16E:\Foodzy\images133394842175193117 1
 61E:\Foodzy\node_modules\caniuse-lite\data\features\template.js121436361000000000 0
 58E:\Foodzy\node_modules\caniuse-lite\data\features\woff2.js121436361000000000 0
 42E:\Foodzy\node_modules\loose-envify\cli.js121436361000000000 0
@@ -117,7 +117,7 @@
 44E:\Foodzy\node_modules\posthtml\package.json133393564161351476 0
 60E:\Foodzy\node_modules\caniuse-lite\data\features\svg-css.js121436361000000000 0
 62E:\Foodzy\node_modules\utility-types\dist\utility-types.js.map121436361000000000 0
-36E:\Foodzy\SelfNotes\talk_is_cheap.md133394296759569650 0
+36E:\Foodzy\SelfNotes\talk_is_cheap.md133394849411976856 0
 39E:\Foodzy\node_modules\get-port\license121436361000000000 0
 55E:\Foodzy\node_modules\svgo\plugins\_applyTransforms.js121436361000000000 0
 31E:\Foodzy\node_modules\css-what133393564159125371 1
@@ -3142,7 +3142,6 @@
 74E:\Foodzy\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133393564129670266 1
 59E:\Foodzy\node_modules\.bin\download-msgpackr-prebuilds.cmd133393564163230308 0
 59E:\Foodzy\node_modules\caniuse-lite\data\features\dnssec.js121436361000000000 0
-25E:\Foodzy\images\IDC.avif133394773894838869 0
 86E:\Foodzy\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json121436361000000000 0
 65E:\Foodzy\node_modules\caniuse-lite\data\features\do-not-track.js121436361000000000 0
 67E:\Foodzy\node_modules\@swc\helpers\_\_define_enumerable_properties133393564130586838 1
@@ -3513,7 +3512,7 @@
 63E:\Foodzy\node_modules\@swc\helpers\_\_async_generator_delegate133393564122472615 1
 57E:\Foodzy\node_modules\@swc\helpers\_\_async_to_generator133393564123583223 1
 65E:\Foodzy\node_modules\@swc\helpers\_\_class_apply_descriptor_get133393564125321639 1
-32E:\Foodzy\dist\index.7826abd7.js133394840105567235 0
+32E:\Foodzy\dist\index.7826abd7.js133394850161552990 0
 65E:\Foodzy\node_modules\@swc\helpers\_\_class_apply_descriptor_set133393564125635349 1
 68E:\Foodzy\node_modules\@swc\helpers\_\_class_apply_descriptor_update133393564125801159 1
 55E:\Foodzy\node_modules\@swc\helpers\_\_class_call_check133393564125955271 1
@@ -4483,5 +4482,5 @@
 36E:\Foodzy\dist\foodlogo.434935ff.jpg133394775223064013 0
 33E:\Foodzy\dist\Foodzy.3464ddca.js133394299129410055 0
 37E:\Foodzy\dist\Foodzy.3464ddca.js.map133394299129754807 0
-36E:\Foodzy\dist\index.7826abd7.js.map133394840105827332 0
+36E:\Foodzy\dist\index.7826abd7.js.map133394850161633155 0
 37E:\Foodzy\dist\index.9e4c6fd2.css.map133394841700523878 0
